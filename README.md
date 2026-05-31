@@ -1,2 +1,2 @@
-# olist-ecommerce-analysis
-End-to-end e-commerce analytics using SQL, Python and Power BI with statistical and basic ML techniques — 96k orders, delivery performance, customer insights
+# Olist-commerce-analysis
+End-to-end e-commerce analytics — SQL, Python, Power BI | 96k orders | Olist Brazil
