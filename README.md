@@ -21,7 +21,7 @@ satisfaction, where delivery failures happen, and how the business grew.
 
 ## 🔗 Live Dashboard
 
-👉 **[Click here to view the interactive Power BI Dashboard](YOUR_POWER_BI_LINK_HERE)**
+👉 **[Click here to view the interactive Power BI Dashboard](https://app.powerbi.com/groups/me/reports/a6a8300d-5073-4572-8755-9e1d81dc7e18/d17759d92b5d920f28e0?experience=power-bi)**
 
 ---
 
